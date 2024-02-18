@@ -1,5 +1,7 @@
 This Python script leverages the Tweepy library to unfollow users on Twitter who do not follow you back. Before running the script, make sure to install the Tweepy library by executing the following command:
+python
 pip install tweepy
+
 Setup
 Obtain Twitter API keys by creating a Twitter Developer account and registering an app.
 
